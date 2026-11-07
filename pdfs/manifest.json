@@ -1,0 +1,1397 @@
+{
+  "reviewed_pdf_count": 232,
+  "files": [
+    {
+      "locale": "en",
+      "source": "lectures/lec01.pdf",
+      "file": "en/lecture-1.pdf",
+      "sha256": "bd59966b23256374819636ffc403312f647986a0424d3ea47f41e3c82a030f9b"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh01.pdf",
+      "file": "en/sheet-1.pdf",
+      "sha256": "c0cfd03e85dd156c169bd43bf1244744861636f716994e567d7511534e7b1241"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh01-hints.pdf",
+      "file": "en/sheet-1-hints.pdf",
+      "sha256": "5bb24a176822b6b6778f67fcfeab561ed52256740f9db5fcef626d71d8332cc5"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh01-questions.pdf",
+      "file": "en/sheet-1-questions.pdf",
+      "sha256": "23dd6642116d81bbe797ae7deb412fe058ce805eb631c4ea75f248e3d3e65130"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec02.pdf",
+      "file": "en/lecture-2.pdf",
+      "sha256": "650bd56d140aafdb9f7cba9e7fff70f8afbd96b6b9740e016ab2fb2919571f2d"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh02.pdf",
+      "file": "en/sheet-2.pdf",
+      "sha256": "815ff60eac20d415bd1872a9717f5b7026cb0898130a0a48697e945139b2e799"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh02-hints.pdf",
+      "file": "en/sheet-2-hints.pdf",
+      "sha256": "c225d45a0c336419b7440bb521d87ce6fd9bfc6d0d0bb95d4bb15562d16d0d0a"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh02-questions.pdf",
+      "file": "en/sheet-2-questions.pdf",
+      "sha256": "8b4806a840f1b8b53947be5c3bc301aebc6da54749181599326f6bc9bbfb48e4"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec03.pdf",
+      "file": "en/lecture-3.pdf",
+      "sha256": "31015c547b7830d801172717e4c115c6c1687e7361572a48b3874dc04f067bba"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh03.pdf",
+      "file": "en/sheet-3.pdf",
+      "sha256": "0bb8f9376cea8b47901253570b2f8be11b9ee2347472e3db9a0f9d5d756c3608"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh03-hints.pdf",
+      "file": "en/sheet-3-hints.pdf",
+      "sha256": "f1bf6068c7f9fe3f4d164b91cf758c295d0056167c50f900f9b913eaf7d3fc2a"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh03-questions.pdf",
+      "file": "en/sheet-3-questions.pdf",
+      "sha256": "ea8bb7a1010879c75368905296fcfcf3368bd2300e2b47190a4cd29b7e95a16c"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec04.pdf",
+      "file": "en/lecture-4.pdf",
+      "sha256": "f124deaa842aa2f203368a2df903677e7bedd96137a5dcb31950ec366b289f1d"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh04.pdf",
+      "file": "en/sheet-4.pdf",
+      "sha256": "2e95a2e266c79eb78b059c17a4156c569f2f479114efb7521e0858fa691e4d31"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh04-hints.pdf",
+      "file": "en/sheet-4-hints.pdf",
+      "sha256": "356fa6562c95c448f1266fd17a2b1dbb22e33307b8035b2615c1c845323a6282"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh04-questions.pdf",
+      "file": "en/sheet-4-questions.pdf",
+      "sha256": "9f607dd3a4aa675581f212a14e138fcf345a28ed9792cc121480cb0a5602cfb0"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec05.pdf",
+      "file": "en/lecture-5.pdf",
+      "sha256": "3ad3a3bccb8780d55519439ecf8925c93b45c81543ccb76ff760446bc7a51714"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh05.pdf",
+      "file": "en/sheet-5.pdf",
+      "sha256": "35079cdd125a1886a15914582bc8b15c042d24cd5aadf2138084396653aeba4e"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh05-hints.pdf",
+      "file": "en/sheet-5-hints.pdf",
+      "sha256": "0b693464c5cb108610313aaafaa7e111130a3c3867210fe85b9573f847c664d0"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh05-questions.pdf",
+      "file": "en/sheet-5-questions.pdf",
+      "sha256": "65649906c0795da95970620af7f55286ea1b66222d6cb5addf57472f1ac86abb"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec06.pdf",
+      "file": "en/lecture-6.pdf",
+      "sha256": "74a17325c1e54689b5a43f8c962fa9582a684ebfb91e5dca777ef75c1b063ff4"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh06.pdf",
+      "file": "en/sheet-6.pdf",
+      "sha256": "4ab3a52f009543b00f0a4e9083f23b92801d451af604d1bf24138bc226eac8c0"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh06-hints.pdf",
+      "file": "en/sheet-6-hints.pdf",
+      "sha256": "b6021af99b971591bbff2ce3e08bf70ffb9591fd098f984ad6e0c6d8a991ad41"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh06-questions.pdf",
+      "file": "en/sheet-6-questions.pdf",
+      "sha256": "a00c7d3abbdf7faa4f11fbfd964118b7119fea3ca6a9bebc315bb93f2f517aa8"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec07.pdf",
+      "file": "en/lecture-7.pdf",
+      "sha256": "946324a7485fc61d4e7254b43b864651e8b77b0e0dadbd0fe4f726cc6685dc43"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh07.pdf",
+      "file": "en/sheet-7.pdf",
+      "sha256": "fbd8b8f683edfdf26ab9d04ee68e1150bbdd9136e3c50c447efcfdc77bfa2ca0"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh07-hints.pdf",
+      "file": "en/sheet-7-hints.pdf",
+      "sha256": "c4fa1a7c5de6967be4b62334e9c3b94ffe71cbe3fe119f026eeaa136b0aec767"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh07-questions.pdf",
+      "file": "en/sheet-7-questions.pdf",
+      "sha256": "b3d0ab504cf06d624f93f9cd9e2737e82cd6ab20149fef3dcc397ee3f8453415"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec08.pdf",
+      "file": "en/lecture-8.pdf",
+      "sha256": "cfae903695f47546ceff39192d6ae2fa3dd57381b1f93b4f265ff0b6ebf9850d"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh08.pdf",
+      "file": "en/sheet-8.pdf",
+      "sha256": "e55e2f2f34213e7b9acf464bf3a052d7ad5625b268de4a105498402eab54e209"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh08-hints.pdf",
+      "file": "en/sheet-8-hints.pdf",
+      "sha256": "64d5951af8aa5487c2ea8a5d346234cd47af060dc0993016efc63e43ba239ecf"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh08-questions.pdf",
+      "file": "en/sheet-8-questions.pdf",
+      "sha256": "17aa6a8ab3bc121854d009c06c02a39e23bae20d32536f2846ff73da69964a91"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec09.pdf",
+      "file": "en/lecture-9.pdf",
+      "sha256": "ad01c3c2596e6b94785d2c9fe9a348533f9b1573616efd8bca9547c489d919a2"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh09.pdf",
+      "file": "en/sheet-9.pdf",
+      "sha256": "2aa5494ac2a386b153fe699a7b54778654676e73cd3c50df3c19fcf09c8a02c8"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh09-hints.pdf",
+      "file": "en/sheet-9-hints.pdf",
+      "sha256": "1df910e4c1ba7899b6c42d7f5ad66b2f9eb35ac2296f09e3ae1fe16714267d69"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh09-questions.pdf",
+      "file": "en/sheet-9-questions.pdf",
+      "sha256": "a07003c850a5b9f8addb74f806c2242b3674800ac4d62d95a1f0c73e14e27e73"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec10.pdf",
+      "file": "en/lecture-10.pdf",
+      "sha256": "4e90c0576f3c020761ba5d8a7a6718efe0796d45c74cd833b78d315c509364dd"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh10.pdf",
+      "file": "en/sheet-10.pdf",
+      "sha256": "f0938333aad48b6055856f788367590dd441b4e8b5598ac7f8165f8615021b03"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh10-hints.pdf",
+      "file": "en/sheet-10-hints.pdf",
+      "sha256": "fe87b32f1eaf843c3d08c8a181d2bf6a5c44aa3553c7bb911c1cd2b96a355aa1"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh10-questions.pdf",
+      "file": "en/sheet-10-questions.pdf",
+      "sha256": "c8c87b72b10296c28dad5418ebf37aec9321baa8d0dcb0b7b844baff30377d1f"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec11.pdf",
+      "file": "en/lecture-11.pdf",
+      "sha256": "053eabc7a02605cc5dfc37254ed3193a2626dcb5d96f50bb974f5ecc959e348d"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh11.pdf",
+      "file": "en/sheet-11.pdf",
+      "sha256": "2046f0bb3dd5ffca10aebd5996edf227946da630668489e7613d2e96d0a77cfe"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh11-hints.pdf",
+      "file": "en/sheet-11-hints.pdf",
+      "sha256": "21709f2baccca7941a82fee39975fdc01260b028ff60ac53cc406c5da2d148b6"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh11-questions.pdf",
+      "file": "en/sheet-11-questions.pdf",
+      "sha256": "ae7bd7284aacb58a7830ff74639f4145cbe1a4c13427d909574037ffd29047cb"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec12.pdf",
+      "file": "en/lecture-12.pdf",
+      "sha256": "eef4807d6d06a787e7f9361d78c05a3023e9a0338911213fbeb8ab84e2d450ec"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh12.pdf",
+      "file": "en/sheet-12.pdf",
+      "sha256": "c79834e1dab34cd572c37ea0de539e6defdb32c77219b8f9da96da42e74be34f"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh12-hints.pdf",
+      "file": "en/sheet-12-hints.pdf",
+      "sha256": "90f8088daf1546cf417fe3c6b1265b8320c4d2659846ecf1c7d637329cc4d83b"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh12-questions.pdf",
+      "file": "en/sheet-12-questions.pdf",
+      "sha256": "4b958c9e407af2a43ca2ef17aa52ead61a49cf9301851aaac11a8e8322267185"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec13.pdf",
+      "file": "en/lecture-13.pdf",
+      "sha256": "a5e4e6a1823dcdaf13043077884c21ebd05af6cb1489aa413a4a7629e155a453"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh13.pdf",
+      "file": "en/sheet-13.pdf",
+      "sha256": "ce29b651476ec36541c8a5e80f5715981f9aaac78c1bb04b614d157a39443e13"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh13-hints.pdf",
+      "file": "en/sheet-13-hints.pdf",
+      "sha256": "922c36acd04b4986bd2bd9c99c0931cf662312b72f2dd4c2f6981adbea920836"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh13-questions.pdf",
+      "file": "en/sheet-13-questions.pdf",
+      "sha256": "e1f837bb17edac4631c8ee4e1f2a05d6884a3c5e7e886552a1d815a92ac4d8e2"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec14.pdf",
+      "file": "en/lecture-14.pdf",
+      "sha256": "2c733a0e301e97f535b6740b75e1aaf3cfde2a7610601a91b8607a63134db58f"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh14.pdf",
+      "file": "en/sheet-14.pdf",
+      "sha256": "0572ede951034b3c07fda7a79183b6a296a6bf618b5fdc58e61be6e9b95c9dac"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh14-hints.pdf",
+      "file": "en/sheet-14-hints.pdf",
+      "sha256": "ba96ceb7fe715c07ad1e16cc2b2dea5c352bc778122d2b1e88047111dde949d3"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh14-questions.pdf",
+      "file": "en/sheet-14-questions.pdf",
+      "sha256": "a714ce90a8088f409e8673907d1e076bec38df3d85343af54c49efddf045751d"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec15.pdf",
+      "file": "en/lecture-15.pdf",
+      "sha256": "a61058c4d018cca06deae9a3ca461a96fc24d37111426d1d72b08056631a58bb"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh15.pdf",
+      "file": "en/sheet-15.pdf",
+      "sha256": "47fcbb54e65cb6a0e5edeb70df0f5f9a77d82ca13ae8ccf1e9e1bc2aaa08cdad"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh15-hints.pdf",
+      "file": "en/sheet-15-hints.pdf",
+      "sha256": "e7af710c2e0bef5bc05a3aa2af40de449db8da6af80c1b378044b33dee56f13e"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh15-questions.pdf",
+      "file": "en/sheet-15-questions.pdf",
+      "sha256": "ed57f91a3aa83b70de7ddf72af6aaaba09de5c520cf4a4f891ca42e9ef1e1935"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec16.pdf",
+      "file": "en/lecture-16.pdf",
+      "sha256": "24ae48c1f5f04731aff5f1b77bdc6a489b3562e32da3457710b229e874db09e3"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh16.pdf",
+      "file": "en/sheet-16.pdf",
+      "sha256": "beb0670291bcdf119ab619b7180e2abd9aaf7d8de9ef62f8efa0405b145efe8e"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh16-hints.pdf",
+      "file": "en/sheet-16-hints.pdf",
+      "sha256": "ac0de2965cf8b6522dd204426a27121770141b5268411c643e174b235406fa4b"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh16-questions.pdf",
+      "file": "en/sheet-16-questions.pdf",
+      "sha256": "b576c41fd2c2ac64d13084d0cc1984de56611dfdb28d7c60b391d99cb85ef6e1"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec17.pdf",
+      "file": "en/lecture-17.pdf",
+      "sha256": "7f52e52ba582b018a04c93e4050809a4fce25a97ed1a33a4db7c582076390ee2"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh17.pdf",
+      "file": "en/sheet-17.pdf",
+      "sha256": "3fb629fb4466e9f777ef317eed1d3d4cf1b022767f860a911064913740a26fbf"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh17-hints.pdf",
+      "file": "en/sheet-17-hints.pdf",
+      "sha256": "7b681ca27c3be263eb5098607d043b74bdb5edd07e39bb08cf16fab5bafd4354"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh17-questions.pdf",
+      "file": "en/sheet-17-questions.pdf",
+      "sha256": "77383a3b3c80cff5ccc2d55c825c9d89261bda6ee20d2f486a54c0c102258a00"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec18.pdf",
+      "file": "en/lecture-18.pdf",
+      "sha256": "6b3d454e848cd6ccb7c29fd9c1fc9ffb5c21cfe851f6c7587186295284a5b66e"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh18.pdf",
+      "file": "en/sheet-18.pdf",
+      "sha256": "78673ef8536bf3e37b8dc8e4fe16b11a300d9b7780d07209c2f7af95b63ddaa5"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh18-hints.pdf",
+      "file": "en/sheet-18-hints.pdf",
+      "sha256": "ea77c1ce93b1476abf8e4e03f19e3e4019d726ac2e7d402aab0de16cd2162d77"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh18-questions.pdf",
+      "file": "en/sheet-18-questions.pdf",
+      "sha256": "94d877aed3264bcd0160c7b4c86f269e36dc53c82fa7a2ef1661662bbbf181eb"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec19.pdf",
+      "file": "en/lecture-19.pdf",
+      "sha256": "cf640765105fbf9168f62719073af0caa01d045bc8cec0238f921df90a4e91e9"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh19.pdf",
+      "file": "en/sheet-19.pdf",
+      "sha256": "531e19430fe29c2633fe8263b00268ce507c211b90b493748a8c6a5c9b428432"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh19-hints.pdf",
+      "file": "en/sheet-19-hints.pdf",
+      "sha256": "cbab0fb86fb9ca710b20307e3c67184b45a92273ef9b2950ed24dba41c3f5832"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh19-questions.pdf",
+      "file": "en/sheet-19-questions.pdf",
+      "sha256": "29149d66f0581efeb7aeda911275be54747d2c0e759ada184699ae0594755d60"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec20.pdf",
+      "file": "en/lecture-20.pdf",
+      "sha256": "91f66f944b774edbaee66dc3070b69c66112364992832d4c2f969169f23d90c8"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh20.pdf",
+      "file": "en/sheet-20.pdf",
+      "sha256": "001d5bc768f41b5c6243b538436fccb490c3be1dfd6c43064d21ea9842425655"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh20-hints.pdf",
+      "file": "en/sheet-20-hints.pdf",
+      "sha256": "5f64b824bc442cbcc8cbeb69ca4ba9b60ca180a106d2b5bde9a5c7c98d9e4da5"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh20-questions.pdf",
+      "file": "en/sheet-20-questions.pdf",
+      "sha256": "2e2c29d6a4120062abe274a0093c07bade35b904aca0b34c9ab74b389bbcead6"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec21.pdf",
+      "file": "en/lecture-21.pdf",
+      "sha256": "f58db06787691c3beba64107ba883088f118a338de913f23922a3159716be76a"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh21.pdf",
+      "file": "en/sheet-21.pdf",
+      "sha256": "dcee5894e22d9ebf008f638df16af13ee3a71ab1d688d8967d8876e48f7b06d4"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh21-hints.pdf",
+      "file": "en/sheet-21-hints.pdf",
+      "sha256": "a9ebd5553542a29863bccf94f538bfb7fa992d9442d58cba4e6b91127f1070f9"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh21-questions.pdf",
+      "file": "en/sheet-21-questions.pdf",
+      "sha256": "d9cf3b1d82744e07919c3522d5593f44a4134329a536702614e091b20813f52c"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec22.pdf",
+      "file": "en/lecture-22.pdf",
+      "sha256": "931a995836602023c214e26d34b862b1640a9bc250a8023c9a9dddcbb53ec692"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh22.pdf",
+      "file": "en/sheet-22.pdf",
+      "sha256": "6784e4b39ee949ce32cd0a3afe8904c7b1eeb5ee65f7f9f002194b6b1999a0e8"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh22-hints.pdf",
+      "file": "en/sheet-22-hints.pdf",
+      "sha256": "f8c20e437182d557ab011e0d62352859014262d98f18e7a7b5be3c4293214bba"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh22-questions.pdf",
+      "file": "en/sheet-22-questions.pdf",
+      "sha256": "1ef2026d09da8f6c61517e64368eb10699f9a05dab86afb47065640126058d63"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec23.pdf",
+      "file": "en/lecture-23.pdf",
+      "sha256": "d842f74521b4c907d5853f164266d2863b4c168b6ae152b6f38f09caab4fb354"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh23.pdf",
+      "file": "en/sheet-23.pdf",
+      "sha256": "c7f40d838baf0081a553fbc1689a9271f693cb1814ac9273bdab8bff97dd7ea4"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh23-hints.pdf",
+      "file": "en/sheet-23-hints.pdf",
+      "sha256": "03fcfe25739893581768f70e2300c889a338e1cdb199b5246d49ed5a187b8c7e"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh23-questions.pdf",
+      "file": "en/sheet-23-questions.pdf",
+      "sha256": "52c8c75e112b8fa099f1afee5b0d8f9f27ee0869bf7473374ecbbf628f10c51c"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec24.pdf",
+      "file": "en/lecture-24.pdf",
+      "sha256": "b2615e8aa624caf1504436b4f0ca3cba01a100487f7af288aa094650cbcbb0e5"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh24.pdf",
+      "file": "en/sheet-24.pdf",
+      "sha256": "13bd6127538388b672e380b30253475ebb5a12c6da2573fca45d9ca03b8137a2"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh24-hints.pdf",
+      "file": "en/sheet-24-hints.pdf",
+      "sha256": "46eb0d254e900327482340c52318b030f1b761ca401e3e1402589bb4e2a67f82"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh24-questions.pdf",
+      "file": "en/sheet-24-questions.pdf",
+      "sha256": "ce85e3f9ce54675c6812c763ba8faf8f5dd9596de1769a1978ccc157d93ae083"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec25.pdf",
+      "file": "en/lecture-25.pdf",
+      "sha256": "e095e57b5f853646a62d6fe008ad92545ebbc75523fd00e61a16f02df52c0773"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh25.pdf",
+      "file": "en/sheet-25.pdf",
+      "sha256": "79893cc7b478857b7f7edf66d7db141bdab8778be2402f9f05e17f1d3f550a91"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh25-hints.pdf",
+      "file": "en/sheet-25-hints.pdf",
+      "sha256": "ac05f1f6b6e407fa3b4ad255eb2af20448395e292359ef07840b940792fdfbec"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh25-questions.pdf",
+      "file": "en/sheet-25-questions.pdf",
+      "sha256": "e9108a822e84af673a966ca25973a6125c1ee472d47cca77d250968adc3b8ea9"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec26.pdf",
+      "file": "en/lecture-26.pdf",
+      "sha256": "77b495f308054aa872616b674238d2b44de8845f9192e8a0e8219087440409bc"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh26.pdf",
+      "file": "en/sheet-26.pdf",
+      "sha256": "351135ee808a74347068e250a8c08783269a408ba947730443106d41bbf326fb"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh26-hints.pdf",
+      "file": "en/sheet-26-hints.pdf",
+      "sha256": "8eab8ca8c4ed6c59ca4e56d0f001c4f5744b15e8d5c0e69a8395652a941dcc31"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh26-questions.pdf",
+      "file": "en/sheet-26-questions.pdf",
+      "sha256": "94b22a75b3be647f193106262916efd29f84faf7284033807fb2c74b5b96c371"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec27.pdf",
+      "file": "en/lecture-27.pdf",
+      "sha256": "49dfbbb69771d0399f94719dd39bb98949b672e83084e27387788df0435536e6"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh27.pdf",
+      "file": "en/sheet-27.pdf",
+      "sha256": "d38f51182e0b7c32a9039ce7a338c7344f73fd1cc532f5c843ecf6801b174229"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh27-hints.pdf",
+      "file": "en/sheet-27-hints.pdf",
+      "sha256": "20e75b10e81d8cfec43b41a15a18c2c845c9c4438902533c17bcc7800c0d9c61"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh27-questions.pdf",
+      "file": "en/sheet-27-questions.pdf",
+      "sha256": "decbcd73befad5a3c1cc1f21bcfd552e56dedee2711b65fa71e589438e0fdef4"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/lec28.pdf",
+      "file": "en/lecture-28.pdf",
+      "sha256": "f49d59449e71d5953d6bcaffb0b5b6fe01b329fdaf3eca94fb79fe63a8c17818"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh28.pdf",
+      "file": "en/sheet-28.pdf",
+      "sha256": "204b6d7dceb0c51f57eb7e8ae80a74b7019105141d63bd543e716c5def8c4c18"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh28-hints.pdf",
+      "file": "en/sheet-28-hints.pdf",
+      "sha256": "3b34140363bfa489c52c4204152c886e00d90200bf1da550942691a6414ef079"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/sh28-questions.pdf",
+      "file": "en/sheet-28-questions.pdf",
+      "sha256": "c94f22553c3a81f83c2ce7a30adca524215fb02fd52e94a08133894a957431b2"
+    },
+    {
+      "locale": "en",
+      "source": "lectures/classical-field-theory.pdf",
+      "file": "en/lectures.pdf",
+      "sha256": "bc2832b91526d3cc0f9a643e62588ff024ea709ed2042815831a360dca17d0fb"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/exercise-sheets.pdf",
+      "file": "en/sheets.pdf",
+      "sha256": "ec42af1e64af2c733cb14016f3666a871e9f78c09cfc0681fdbd7fc2b2e94829"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/exercise-sheets-hints.pdf",
+      "file": "en/sheets-hints.pdf",
+      "sha256": "909714b25e7d716076a0e5aa10ecde4051f5b6f43915f7f50bc459b32c39c124"
+    },
+    {
+      "locale": "en",
+      "source": "exercise-sheets/exercise-sheets-questions.pdf",
+      "file": "en/sheets-questions.pdf",
+      "sha256": "b6684a5cb00c185b0c3eb0c684295a644a929a9b59301209aa27d3af5091b0cb"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec01.pdf",
+      "file": "lt/lecture-1.pdf",
+      "sha256": "10200dc2fafb84ea5ee9b4f0cf4ae8c166e2c58cbbb10be2c2f351e0377c33bf"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh01.pdf",
+      "file": "lt/sheet-1.pdf",
+      "sha256": "faf6e7379200b41378a4d580a2c3edff1bd7f3477e36e92f4857d0b29e216d3a"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh01-hints.pdf",
+      "file": "lt/sheet-1-hints.pdf",
+      "sha256": "9819ed049be3a468b78874cb66050bc1b03bbd317158f02e5360c1d833fb6db4"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh01-questions.pdf",
+      "file": "lt/sheet-1-questions.pdf",
+      "sha256": "b3f8fe38f2f9a802fc4ff1c795cb6e5eb9aaee683ce263bcf5fe0f50dad2d130"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec02.pdf",
+      "file": "lt/lecture-2.pdf",
+      "sha256": "68de1556043bcb8f8abe1c0445d83afe1575872ae1b06adbd906af4427ae40de"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh02.pdf",
+      "file": "lt/sheet-2.pdf",
+      "sha256": "4f675cde3e21d19281391425de4031b13a134307b0265851c0262ab4e580c356"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh02-hints.pdf",
+      "file": "lt/sheet-2-hints.pdf",
+      "sha256": "094418aa5eb90ada0eb5dc4880a52c89e22338d5d503a7120294a45a3df5ab5d"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh02-questions.pdf",
+      "file": "lt/sheet-2-questions.pdf",
+      "sha256": "bcf2f5195a48b20b8c2d99a8adc6fa92a91c67eaaf1eb7f3566ad13286dc34b9"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec03.pdf",
+      "file": "lt/lecture-3.pdf",
+      "sha256": "748fdd831e8ccfaac28c68b38d36826f9b3cfcb6606ef610b8e37053267a81e0"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh03.pdf",
+      "file": "lt/sheet-3.pdf",
+      "sha256": "86ba29df148f430e8259e64ae0bb39a8a7e2eaa7661b3eecff6ede006114506f"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh03-hints.pdf",
+      "file": "lt/sheet-3-hints.pdf",
+      "sha256": "d1f4267fded886726c0079944de189b5ac297583959531516e7832cf3a9aca76"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh03-questions.pdf",
+      "file": "lt/sheet-3-questions.pdf",
+      "sha256": "cc18bc854f005d88b4c119254f84104225cfd1595a4b08e10347cab7ea95fcd1"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec04.pdf",
+      "file": "lt/lecture-4.pdf",
+      "sha256": "5f6714a14d264cda17ad8340378563ced811893aee0130a86b4b9257d42d8d83"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh04.pdf",
+      "file": "lt/sheet-4.pdf",
+      "sha256": "ea2eaed5934d2e31381e93ce5418cb820b6a05194d3debddbd982d24ec1666a0"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh04-hints.pdf",
+      "file": "lt/sheet-4-hints.pdf",
+      "sha256": "ec232bab7fb4db76ded3da17ff8f8141933e5068311d4c4daac1f59d50734b45"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh04-questions.pdf",
+      "file": "lt/sheet-4-questions.pdf",
+      "sha256": "bf85879062561720648bd51054770a787cfc3f8fecc2e6c5e60a379db805077b"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec05.pdf",
+      "file": "lt/lecture-5.pdf",
+      "sha256": "7ef85307de1aff18cfcac121548e0dc5ea857c04752c111fa143b071c235a7e2"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh05.pdf",
+      "file": "lt/sheet-5.pdf",
+      "sha256": "a2ec247bf143acd0ee4cf50bcb359a21b79ff274b0768a9c5a3c93a3228355bb"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh05-hints.pdf",
+      "file": "lt/sheet-5-hints.pdf",
+      "sha256": "82299c149822e59c343f115cfffab2e428d43a1833b0097f42a9e90d3a0db186"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh05-questions.pdf",
+      "file": "lt/sheet-5-questions.pdf",
+      "sha256": "6234bb8e7a57c399e18ede323061058b526a4068480ee739bfe9358dc9da343b"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec06.pdf",
+      "file": "lt/lecture-6.pdf",
+      "sha256": "6d24827a77f90e495b61e2802bb7e9429586f4d5209cc5406dac054a2c8f6ae3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh06.pdf",
+      "file": "lt/sheet-6.pdf",
+      "sha256": "8ab9027970a5959200126ac953810ce7e475d9d5618467eff4ff48b30080391c"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh06-hints.pdf",
+      "file": "lt/sheet-6-hints.pdf",
+      "sha256": "0c2d83204b93a5e4da8bdbbe5d75981abf4f87b28dd8033327dd7964c093ed24"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh06-questions.pdf",
+      "file": "lt/sheet-6-questions.pdf",
+      "sha256": "02a71a79b01e64823ae2ebaf1903d3284bfedeec98711911a64fbf0fb87b4983"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec07.pdf",
+      "file": "lt/lecture-7.pdf",
+      "sha256": "2e4ecbca5b8acc32afe8e3efdf3f0adb559983ded057243c8abed724f62ccc50"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh07.pdf",
+      "file": "lt/sheet-7.pdf",
+      "sha256": "6c54763ca908e6768bc301a17b7dbd3eba94d5e3383792783c01a761f36ddae0"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh07-hints.pdf",
+      "file": "lt/sheet-7-hints.pdf",
+      "sha256": "b63ff75791137e811aa65fcbd06001a5d336c4c7e1c753872a7ea6e2abc8e626"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh07-questions.pdf",
+      "file": "lt/sheet-7-questions.pdf",
+      "sha256": "b8e900a4c726f57f08cf70c199c3ed3b94391a0a1bbb0c558857ef37643b9970"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec08.pdf",
+      "file": "lt/lecture-8.pdf",
+      "sha256": "d50c81a41a822d1959ee239dd87d9d62318355837bf1eb54b822325124e3a2c9"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh08.pdf",
+      "file": "lt/sheet-8.pdf",
+      "sha256": "f5a942694c35927c1650e83e53f6c76b0daed1f16014dd5a44e953010aaef36c"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh08-hints.pdf",
+      "file": "lt/sheet-8-hints.pdf",
+      "sha256": "adee5307b2e2fcb25d45f2fa21df6fec6771e3760d3e199d12af4559a139bbf0"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh08-questions.pdf",
+      "file": "lt/sheet-8-questions.pdf",
+      "sha256": "afc74c957cc6467ac856e5f75369adaa4ba995cdf6c8314ff462f1aa42e6c671"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec09.pdf",
+      "file": "lt/lecture-9.pdf",
+      "sha256": "a2845c241cd3e2aa6461c1dd54e9b8cf76691dfc0791f8d04094e0af433a9eb3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh09.pdf",
+      "file": "lt/sheet-9.pdf",
+      "sha256": "8670534b058f21ec153f2d626bf81d22002718a034eae928b7b8867d9a0e9ab4"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh09-hints.pdf",
+      "file": "lt/sheet-9-hints.pdf",
+      "sha256": "fa000e0bbb4e64e105e3188cf61d90687f87c9c609ca9145082a29a9806ec80b"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh09-questions.pdf",
+      "file": "lt/sheet-9-questions.pdf",
+      "sha256": "8207ff7659f15a7eb8b281b5b4adf63d0386e2afecc07686ed10f487ed84b58b"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec10.pdf",
+      "file": "lt/lecture-10.pdf",
+      "sha256": "c18d9536df8d89cc66be6cc5560b9c93fefffbd81fc8979ca39a977779817ec3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh10.pdf",
+      "file": "lt/sheet-10.pdf",
+      "sha256": "2bad2a87587e445c6c6eaa5b292caf94539eddab5b9ad28d6a70bfb2aff7fca3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh10-hints.pdf",
+      "file": "lt/sheet-10-hints.pdf",
+      "sha256": "3d92683ab165a6be6fc92653c29ed00c1782aacf8557f15174e9c4da98f618f9"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh10-questions.pdf",
+      "file": "lt/sheet-10-questions.pdf",
+      "sha256": "dfe62b0261e0535eaf9427bf69c63d01893bb2068abc3b75eefaba07e793e3a4"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec11.pdf",
+      "file": "lt/lecture-11.pdf",
+      "sha256": "e9f82bef6cc5f94b4d21622a82b5304bc3d4dfd28060e2edc4fdca5144d81f4e"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh11.pdf",
+      "file": "lt/sheet-11.pdf",
+      "sha256": "2c2e5b7a724d64e6f7bcbc1d881c84cb3dbc16f54f65db0962c17f6a55841039"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh11-hints.pdf",
+      "file": "lt/sheet-11-hints.pdf",
+      "sha256": "37129251d529283441acfd04daa010616abe9c2312f09d6883081734b80e4afe"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh11-questions.pdf",
+      "file": "lt/sheet-11-questions.pdf",
+      "sha256": "dac1dbd909441be936e32bf6c977728d97168e5cd2016b0148c49a309301a238"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec12.pdf",
+      "file": "lt/lecture-12.pdf",
+      "sha256": "4ca32894b3a4500548b3e6a6a713f1cab783407bf4817a2af90356253ca3edab"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh12.pdf",
+      "file": "lt/sheet-12.pdf",
+      "sha256": "02cab3d13c8909000b9c5bc670be4b2b76252c5acc4a14672c14c94f93787cbd"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh12-hints.pdf",
+      "file": "lt/sheet-12-hints.pdf",
+      "sha256": "fce14a61088ec6c04b105d8c55e5388ddd8cd2c402706182f6d808a98cc485da"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh12-questions.pdf",
+      "file": "lt/sheet-12-questions.pdf",
+      "sha256": "46f7c5b4d5a454265b344d2868ee408c3c76644a1f05a2089b9aeb0f35ad0f91"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec13.pdf",
+      "file": "lt/lecture-13.pdf",
+      "sha256": "5e8ecd307de476353099bcef5131299e8b91502e1a0214abea1122847efbad77"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh13.pdf",
+      "file": "lt/sheet-13.pdf",
+      "sha256": "288e73722ef188c7fdd74970f271439447fbaf5b95b955518468a70e164ecf43"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh13-hints.pdf",
+      "file": "lt/sheet-13-hints.pdf",
+      "sha256": "f12d8db8d99280c21bd748cae3ddeaa88cbc9732ad751d47950abdb7fb185011"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh13-questions.pdf",
+      "file": "lt/sheet-13-questions.pdf",
+      "sha256": "623d3961cd2c061ff91f03f17979bc434cdd16f88bce43313f4901d4d53ddacb"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec14.pdf",
+      "file": "lt/lecture-14.pdf",
+      "sha256": "52f125ea1946babb3b3635b0487d2b6a8c32545bd5a9e52978d20179c5d837f5"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh14.pdf",
+      "file": "lt/sheet-14.pdf",
+      "sha256": "f3f3be7415e1a5586a05f7caf8d8cd3c339ebe91efcf6cccacfaff44d6805b36"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh14-hints.pdf",
+      "file": "lt/sheet-14-hints.pdf",
+      "sha256": "49337b0b774812b3dd925ce32158de0bd112c7e24544760164bc7644d913fa37"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh14-questions.pdf",
+      "file": "lt/sheet-14-questions.pdf",
+      "sha256": "1b8fca6e298a26d20ab57658c7462ed10920eb3248b464d7ea8e9a808363957d"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec15.pdf",
+      "file": "lt/lecture-15.pdf",
+      "sha256": "2bdf9cbd7dea364b3802c0f2f92b82a7ec68030000e5748793d59bbdbb3fde6e"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh15.pdf",
+      "file": "lt/sheet-15.pdf",
+      "sha256": "b466c5afed4f2a4f4089ccbafc7ff78cd7d4feaa4d88a19a4f5d2d7e6eef63a3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh15-hints.pdf",
+      "file": "lt/sheet-15-hints.pdf",
+      "sha256": "161068a330fd23eaa77bde6010f2ea4088d2d9405fd32fc41e9c7031ceb04811"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh15-questions.pdf",
+      "file": "lt/sheet-15-questions.pdf",
+      "sha256": "67e1927841ba70c984a4df7fb900c82ee76268f3d91d1c8e8934523ea49d1dc4"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec16.pdf",
+      "file": "lt/lecture-16.pdf",
+      "sha256": "d38c87a9bacea2be417d3338b42d7bf8287f7ea48f19357842931a23947121dc"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh16.pdf",
+      "file": "lt/sheet-16.pdf",
+      "sha256": "68b649a33ae503737b3a27f8ca8b46c9c14a374d4547c12caf5c0dfdd1ea0a98"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh16-hints.pdf",
+      "file": "lt/sheet-16-hints.pdf",
+      "sha256": "4aabaf3e0fb8509137f8c31ec3d0b2844255c67e375b50a1d47764c830ccea50"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh16-questions.pdf",
+      "file": "lt/sheet-16-questions.pdf",
+      "sha256": "03adaf8dbbfc94237e3ec4cf2383bdeebc9f802578b343cead8acd36d0284c18"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec17.pdf",
+      "file": "lt/lecture-17.pdf",
+      "sha256": "429d61ce309a44ed6ac581eb43bd1579a0f79f3a025357b19d070d013179299f"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh17.pdf",
+      "file": "lt/sheet-17.pdf",
+      "sha256": "1fa0c4d768fe7bde21095d19a516ad1ea9d6a677edcad8db3aede991cfe79481"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh17-hints.pdf",
+      "file": "lt/sheet-17-hints.pdf",
+      "sha256": "e311562d057a2890a32a586c8da5e1d6a7493c2b661890f6f28c53b64b3c62b3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh17-questions.pdf",
+      "file": "lt/sheet-17-questions.pdf",
+      "sha256": "5e842e733a8cfe72f018e160903d5ff84f3a137506f9409c90160c016f150a95"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec18.pdf",
+      "file": "lt/lecture-18.pdf",
+      "sha256": "9fc7ac0911c954da4c0a9c842807372279e98da113e9f37cbf5de0754049db05"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh18.pdf",
+      "file": "lt/sheet-18.pdf",
+      "sha256": "27b8a139f448d83dcbdfd3bb143991ed8c5487b68138732c0b8f67455d05d073"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh18-hints.pdf",
+      "file": "lt/sheet-18-hints.pdf",
+      "sha256": "8e0cb2d5b159a6ea62a63b85e9e6b1ba7e7109bcd3a49142382278fb4fe62e92"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh18-questions.pdf",
+      "file": "lt/sheet-18-questions.pdf",
+      "sha256": "902a349e495b7993ba140dc367dc6d7be3ebb0b13bb0a094d30a853a2b7ac926"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec19.pdf",
+      "file": "lt/lecture-19.pdf",
+      "sha256": "7f90f1f85349c838ae7ca367d15880816bd883fd5898e3b93afb2752fef129b9"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh19.pdf",
+      "file": "lt/sheet-19.pdf",
+      "sha256": "37e94ed88ad01745e1b1690502a738fdbf9f7ec5dad52c38b57e789c2ff1c325"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh19-hints.pdf",
+      "file": "lt/sheet-19-hints.pdf",
+      "sha256": "8c82d2550bb6bcd51fc88957f82b2a396969618ce8b2474150b2f6138e02e994"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh19-questions.pdf",
+      "file": "lt/sheet-19-questions.pdf",
+      "sha256": "53cafb6d9f3eb89d4e7eb626299f98ac8061e9a9cc6c68b45e9b7614e1969105"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec20.pdf",
+      "file": "lt/lecture-20.pdf",
+      "sha256": "3db0ebdc48db2f963bbc8355d31c49e207f85b1b6952403c9e878451654fac12"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh20.pdf",
+      "file": "lt/sheet-20.pdf",
+      "sha256": "a1681e53470a1d0ff966d33bbd8aca50ff1ba43f430379267e21a0203931571d"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh20-hints.pdf",
+      "file": "lt/sheet-20-hints.pdf",
+      "sha256": "83f9e7333fdee8ad3a8cc30012c1a643cec4f6bc7657bcbac5ae1c57c3394e49"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh20-questions.pdf",
+      "file": "lt/sheet-20-questions.pdf",
+      "sha256": "e3a50911af67d02a598cb40d55c7c5cf139b4c15dd942da3091c3d692c223915"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec21.pdf",
+      "file": "lt/lecture-21.pdf",
+      "sha256": "96c4a98e8ccc9d7341d7aec5ef967deb2e87f185e06375fdd519f518c827367d"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh21.pdf",
+      "file": "lt/sheet-21.pdf",
+      "sha256": "4e47a4cd9c79fd065dd1b43e2f8826ccce835a07c857f0cfd39884f4dd2df4aa"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh21-hints.pdf",
+      "file": "lt/sheet-21-hints.pdf",
+      "sha256": "b6b9c334a25ac384321fbf99ad439ba83a3ea7be74155b44929c52b68166e777"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh21-questions.pdf",
+      "file": "lt/sheet-21-questions.pdf",
+      "sha256": "34813dbe863bba4818ae4e4e76186cbf045386edcc847c09ef75d829eb6329ad"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec22.pdf",
+      "file": "lt/lecture-22.pdf",
+      "sha256": "8da84bfbd5700aca67752564154761169ebce7383a3b6f9574e98d6274682dfa"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh22.pdf",
+      "file": "lt/sheet-22.pdf",
+      "sha256": "e57cfe5a6c880ec52a4cd0e8fd57b55d81dd8173943b051cdcf63a5dab20a6f4"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh22-hints.pdf",
+      "file": "lt/sheet-22-hints.pdf",
+      "sha256": "a8e4306037df4116bb945b60abe29368e27fee08229995e191ae910585813428"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh22-questions.pdf",
+      "file": "lt/sheet-22-questions.pdf",
+      "sha256": "79fb98652e85759f49b7d6b11e54cd76cef3c8a197be152d37e7174928c9ffc6"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec23.pdf",
+      "file": "lt/lecture-23.pdf",
+      "sha256": "2b41a94c5ddbd54f5a70021d0b148cf913746e9fe3c9909a77fbb5e19eaafb02"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh23.pdf",
+      "file": "lt/sheet-23.pdf",
+      "sha256": "4ffb4720a4845ae5e28a2783e969b5eddf0f01f01ed636d749ab8a2a0a64126c"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh23-hints.pdf",
+      "file": "lt/sheet-23-hints.pdf",
+      "sha256": "a45757b94019bb17825c27bd5cfee05c93de88cb15d8012186cf84eeec73a963"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh23-questions.pdf",
+      "file": "lt/sheet-23-questions.pdf",
+      "sha256": "e0e5cd42bb55aecc0aea00aa5183c82c2c617bc2b002c251aa4969945319b564"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec24.pdf",
+      "file": "lt/lecture-24.pdf",
+      "sha256": "4a009200b002eb08adbdbb3cefb4a064c22c1e3fd87a73635668bdd0dd6e4eea"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh24.pdf",
+      "file": "lt/sheet-24.pdf",
+      "sha256": "31ecad09c352bcff7a48436bf365eeba3735313eef01ee1efbfdc93781dd33f8"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh24-hints.pdf",
+      "file": "lt/sheet-24-hints.pdf",
+      "sha256": "0f3f1cf372e34a854c18e1f0b130837397c9675ed876f26c59c55e1727598052"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh24-questions.pdf",
+      "file": "lt/sheet-24-questions.pdf",
+      "sha256": "2291c6e0831349ea5fb44c2598d971e9aa9a81ffd9f937ff84d9851cc55a6999"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec25.pdf",
+      "file": "lt/lecture-25.pdf",
+      "sha256": "5be5a30c28dc77977a5e1d33e7042019d4c0b97ffa851ee50fc9ad1a097e4633"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh25.pdf",
+      "file": "lt/sheet-25.pdf",
+      "sha256": "535527b576e109170e10f9d7de8ee36ffb8376ff7dd7a06e9ee37548989007ce"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh25-hints.pdf",
+      "file": "lt/sheet-25-hints.pdf",
+      "sha256": "9067bf1749a7e05610834ca22cf33307456adf1e2bc71a020e4f50a340e232e4"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh25-questions.pdf",
+      "file": "lt/sheet-25-questions.pdf",
+      "sha256": "c9cd3ab8ec85f44f60506c38a291d841e6242ce5fe24015077faa57a02d3e428"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec26.pdf",
+      "file": "lt/lecture-26.pdf",
+      "sha256": "85083a489cbbc541c3e71c9a042bb0c4a921410f123d247a730dd31e6ccc9896"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh26.pdf",
+      "file": "lt/sheet-26.pdf",
+      "sha256": "6b800ab23dd0140a67353bcf7322caaf8a563e57b2d2b41945e790bc885f90ca"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh26-hints.pdf",
+      "file": "lt/sheet-26-hints.pdf",
+      "sha256": "2e9c3207507077d21c3db08c52d99c0749814f7282e140430547e501d295bebf"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh26-questions.pdf",
+      "file": "lt/sheet-26-questions.pdf",
+      "sha256": "81651763f6b21eb72a458504fb3f336250f02403f450b4e9da98f8f1e81a3e5c"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec27.pdf",
+      "file": "lt/lecture-27.pdf",
+      "sha256": "7e546f7665295d86596f12262d6b527a3dbd3a3f3889c3de9ef1a0ecd0b88db3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh27.pdf",
+      "file": "lt/sheet-27.pdf",
+      "sha256": "c998ed15ee7fb5c92ceb6332d482f63052811be8ca590701cedcf1e9026fd7b3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh27-hints.pdf",
+      "file": "lt/sheet-27-hints.pdf",
+      "sha256": "3b894a5c31471bc7afb099d4174aa2f1620de20b0dfae3cfffd44a0ca77ab461"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh27-questions.pdf",
+      "file": "lt/sheet-27-questions.pdf",
+      "sha256": "c74d074c4774a3eb4515b3f18df36770853642db81d81f73b883df8fdf58b507"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/lec28.pdf",
+      "file": "lt/lecture-28.pdf",
+      "sha256": "3c560fc38a825823508a2d73dc3f9cdcdcbf09100d95201e0ed3ccafeb322732"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh28.pdf",
+      "file": "lt/sheet-28.pdf",
+      "sha256": "45363fc101ccea50c03a4ba7bd7701ae90dc0056a0d4eea25edaae4c1377dd7a"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh28-hints.pdf",
+      "file": "lt/sheet-28-hints.pdf",
+      "sha256": "31e5c9c7e6c214bc4c7f9f04fd575481fecf97d294e699db8088056c5387a1b2"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/sh28-questions.pdf",
+      "file": "lt/sheet-28-questions.pdf",
+      "sha256": "1a3f78b3514fca25b9ec004e654587f1089c71cc653fbf0763d2ff28bf01fb2d"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/lectures/classical-field-theory.pdf",
+      "file": "lt/lectures.pdf",
+      "sha256": "41650ce5cd51bc95565b97ee48afe0972d49e6b6a860112d1103e89db09c0eab"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/exercise-sheets.pdf",
+      "file": "lt/sheets.pdf",
+      "sha256": "f0163be249a2bc88c0aba95ed28e6daa1c81df58cb6f6975d4e0ffc696b81415"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/exercise-sheets-hints.pdf",
+      "file": "lt/sheets-hints.pdf",
+      "sha256": "cfe1b5350162911b661dc57a01a66e0d1c655657be93e51202281603f1ac3fe3"
+    },
+    {
+      "locale": "lt",
+      "source": "classical-field-theory-lt/exercise-sheets/exercise-sheets-questions.pdf",
+      "file": "lt/sheets-questions.pdf",
+      "sha256": "d82865a657d21a685f0a20f894686570cd855286589a797cd60f5f3576444ed3"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Lauko teorija">
+ <rect width="32" height="32" rx="7" fill="#7d263d"/>
+ <g fill="none" stroke="#fff6f7" stroke-width="1.7" stroke-linecap="round">
+  <path d="M5 23H27M7 26V6" opacity=".45"/>
+  <path d="M5 17C9 17 10 7 15 7S20 25 27 14"/>
+  <path d="M5 22C11 22 12 12 17 12S22 25 27 20" opacity=".6"/>
+ </g>
+</svg>
